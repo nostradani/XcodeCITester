@@ -10,6 +10,8 @@
 	<string>CIPlayground</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>2D7553C327FD6F2907C512AF9CEA2CFA85E86348</key>
+		<string>https://github.com/nostradani/XcodeCITester.git</string>
 		<key>51C702F6CD5887DC6CCCDB4A35A716EE11098E9A</key>
 		<string>ssh://daniels-imac.fritz.box/git/CIPlayground.git</string>
 	</dict>
@@ -17,15 +19,17 @@
 	<string>CIPlayground.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>51C702F6CD5887DC6CCCDB4A35A716EE11098E9A</key>
+		<key>2D7553C327FD6F2907C512AF9CEA2CFA85E86348</key>
 		<string>../..</string>
+		<key>51C702F6CD5887DC6CCCDB4A35A716EE11098E9A</key>
+		<string>../../../CIPlayground</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://daniels-imac.fritz.box/git/CIPlayground.git</string>
+	<string>https://github.com/nostradani/XcodeCITester.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>51C702F6CD5887DC6CCCDB4A35A716EE11098E9A</string>
+	<string>2D7553C327FD6F2907C512AF9CEA2CFA85E86348</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>51C702F6CD5887DC6CCCDB4A35A716EE11098E9A</string>
 			<key>IDESourceControlWCCName</key>
 			<string>CIPlayground</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2D7553C327FD6F2907C512AF9CEA2CFA85E86348</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XcodeCITester</string>
 		</dict>
 	</array>
 </dict>
