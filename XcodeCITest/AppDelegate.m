@@ -14,6 +14,10 @@
 
 @implementation AppDelegate
 
+- (void) passItNot {
+    NSLog(@"No error now");
+}
+
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
