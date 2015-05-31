@@ -1,6 +1,6 @@
 //
-//  CIPlaygroundTests.m
-//  CIPlaygroundTests
+//  XcodeCITestTests.m
+//  XcodeCITestTests
 //
 //  Created by Daniel Muhra on 31/05/15.
 //  Copyright (c) 2015 Daniel Muhra. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface CIPlaygroundTests : XCTestCase
+@interface XcodeCITestTests : XCTestCase
 
 @end
 
-@implementation CIPlaygroundTests
+@implementation XcodeCITestTests
 
 - (void)setUp {
     [super setUp];

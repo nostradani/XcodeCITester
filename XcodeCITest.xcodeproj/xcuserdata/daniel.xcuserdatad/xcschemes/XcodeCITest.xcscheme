@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "65CF78491B1A718C00CEB08B"
-               BuildableName = "CIPlayground.app"
-               BlueprintName = "CIPlayground"
-               ReferencedContainer = "container:CIPlayground.xcodeproj">
+               BlueprintIdentifier = "650B399E1B1BB43600F27FB8"
+               BuildableName = "XcodeCITest.app"
+               BlueprintName = "XcodeCITest"
+               ReferencedContainer = "container:XcodeCITest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "65CF78621B1A718C00CEB08B"
-               BuildableName = "CIPlaygroundTests.xctest"
-               BlueprintName = "CIPlaygroundTests"
-               ReferencedContainer = "container:CIPlayground.xcodeproj">
+               BlueprintIdentifier = "650B39B71B1BB43600F27FB8"
+               BuildableName = "XcodeCITestTests.xctest"
+               BlueprintName = "XcodeCITestTests"
+               ReferencedContainer = "container:XcodeCITest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "65CF78621B1A718C00CEB08B"
-               BuildableName = "CIPlaygroundTests.xctest"
-               BlueprintName = "CIPlaygroundTests"
-               ReferencedContainer = "container:CIPlayground.xcodeproj">
+               BlueprintIdentifier = "650B39B71B1BB43600F27FB8"
+               BuildableName = "XcodeCITestTests.xctest"
+               BlueprintName = "XcodeCITestTests"
+               ReferencedContainer = "container:XcodeCITest.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "65CF78491B1A718C00CEB08B"
-            BuildableName = "CIPlayground.app"
-            BlueprintName = "CIPlayground"
-            ReferencedContainer = "container:CIPlayground.xcodeproj">
+            BlueprintIdentifier = "650B399E1B1BB43600F27FB8"
+            BuildableName = "XcodeCITest.app"
+            BlueprintName = "XcodeCITest"
+            ReferencedContainer = "container:XcodeCITest.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "65CF78491B1A718C00CEB08B"
-            BuildableName = "CIPlayground.app"
-            BlueprintName = "CIPlayground"
-            ReferencedContainer = "container:CIPlayground.xcodeproj">
+            BlueprintIdentifier = "650B399E1B1BB43600F27FB8"
+            BuildableName = "XcodeCITest.app"
+            BlueprintName = "XcodeCITest"
+            ReferencedContainer = "container:XcodeCITest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "65CF78491B1A718C00CEB08B"
-            BuildableName = "CIPlayground.app"
-            BlueprintName = "CIPlayground"
-            ReferencedContainer = "container:CIPlayground.xcodeproj">
+            BlueprintIdentifier = "650B399E1B1BB43600F27FB8"
+            BuildableName = "XcodeCITest.app"
+            BlueprintName = "XcodeCITest"
+            ReferencedContainer = "container:XcodeCITest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

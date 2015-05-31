@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>CIPlayground.xcscheme_^#shared#^_</key>
+		<key>XcodeCITest.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>65CF78491B1A718C00CEB08B</key>
+		<key>650B399E1B1BB43600F27FB8</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>65CF78621B1A718C00CEB08B</key>
+		<key>650B39B71B1BB43600F27FB8</key>
 		<dict>
 			<key>primary</key>
 			<true/>
